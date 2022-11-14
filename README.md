@@ -1,3 +1,8 @@
+# Bibliotecas
+
+PrimeNG
+https://www.primefaces.org/primeng/setup
+https://www.primefaces.org/primeflex/
 # CourseCarsales
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.

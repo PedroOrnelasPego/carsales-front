@@ -1,0 +1,9 @@
+::ng-deep{
+  $background-color: #252525 !important;
+  $font-color: #ffff !important;
+
+  .p-card{
+    background-color: $background-color;
+    color: $font-color;
+  }
+}
